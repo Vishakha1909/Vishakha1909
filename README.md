@@ -28,8 +28,14 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
 [<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
 
-<br />
-<br />
+---
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.Vishakha1909.vercel.app/api?username=Vishakha1909&show_icons=true&hide_border=true" />
+
+</details>
 
 [website]: https://vishakha-portfolio.s3.us-east-2.amazonaws.com/index.html
 [twitter]: https://twitter.com/Vishakha1909
