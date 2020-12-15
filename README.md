@@ -30,13 +30,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.Vishakha1909.vercel.app/api?username=Vishakha1909&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: https://vishakha-portfolio.s3.us-east-2.amazonaws.com/index.html
 [twitter]: https://twitter.com/Vishakha1909
 [instagram]: https://www.instagram.com/vishakhakumaresan2001/
