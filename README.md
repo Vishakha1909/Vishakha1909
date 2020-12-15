@@ -1,6 +1,6 @@
 ### Heyyy ! I'm Vishakha ! 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://vishakha-portfolio.s3.us-east-2.amazonaws.com/index.html)
+[![Website](https://img.shields.io/website?label=PORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://vishakha-portfolio.s3.us-east-2.amazonaws.com/index.html)
 
 ## I'm a Student, Learner, App Developer, and Dreamer!!
 
