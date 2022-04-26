@@ -1,12 +1,10 @@
 ### Heyyy ! I'm Vishakha ! 👋
 
-[![Website](https://img.shields.io/website?label=PORTFOLIO&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://vishakha-portfolio.s3.us-east-2.amazonaws.com/index.html)
-
 ## I'm a Student, Learner, App Developer, and Dreamer!!
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I believe in helping others in reaching their true potential.
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I am a professional dancer and a well versed badminton player.
 
 
